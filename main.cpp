@@ -8,7 +8,7 @@
 
 int main() {
 
-    std::cout << "Hello, world! My number is " << 7 << '!' << std::endl;
+    std::cout << "Hello, world! My number is " << 8 << '!' << std::endl;
 
     return 0;
 }
